@@ -1,0 +1,4 @@
+#ignore Intelij IDEA
+tasktracker/.idea
+
+tasktracker/tasktracker.iml
